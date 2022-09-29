@@ -10,4 +10,4 @@ Repo structure:
 - 'results' = plots for my PI
 - 'src' = code to generate plots
 
-- 'hello' = come say hi
+- 'hello' = come say hi peeppeep
