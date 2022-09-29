@@ -9,3 +9,5 @@ Repo structure:
 - 'doc' =  source lit
 - 'results' = plots for my PI
 - 'src' = code to generate plots
+
+- 'hello' = come say hi
